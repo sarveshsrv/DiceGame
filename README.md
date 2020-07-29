@@ -1,6 +1,6 @@
-# dice
+# DiCeTap
 
-A new Flutter project.
+A single screen app in which the the number of all the dice changes dynamically on tapping any one of them.
 
 ## Getting Started
 
